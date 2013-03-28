@@ -1,0 +1,8 @@
+Michelle Fernandez
+mf2492
+
+This program contains two python files: A3.py and color.py. In order to run this program, make sure that these two files are in the same folder directory since color.py is an imported class in A3.py. 
+
+Running A3.py will prompt the user to enter the filename of an existing image file that is in the same folder containing the program. It will also prompt the user to enter an output file name. The user will be able to select a series of image editing options.
+
+In this program, two of the extra credit functions have been added: extreme_contrast() and random_noise(). 
